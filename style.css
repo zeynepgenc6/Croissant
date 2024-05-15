@@ -26,3 +26,9 @@ p{
     margin: 10px 100px;
     border-radius: 500px;
 }
+.croissant-photo{
+    display: block;
+    max-width: 50%;
+    border-radius: 10px;
+    margin: 30px auto;
+    }
